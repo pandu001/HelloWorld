@@ -1,4 +1,4 @@
 # HelloWorld
 
 
-firstvone
+GitHub and SLACK integration
